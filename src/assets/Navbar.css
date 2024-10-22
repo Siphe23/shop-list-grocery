@@ -1,0 +1,49 @@
+/* Navbar.css */
+.navbar {
+    background-color: #343a40; /* Dark background color */
+    padding: 10px 20px; /* Add some padding */
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space between logo and links */
+    align-items: center; /* Center items vertically */
+}
+
+.logo {
+    display: flex; /* Use flexbox for logo layout */
+    align-items: center; /* Center items vertically */
+    color: #ffffff; /* White text color */
+}
+
+.logo span {
+    margin-left: 10px; /* Space between icon and text */
+    font-weight: bold; /* Make the logo text bold */
+}
+
+.nav-links {
+    list-style-type: none; /* Remove bullet points */
+    display: flex; /* Use flexbox for horizontal layout */
+    justify-content: space-between; /* Space items evenly */
+    align-items: center; /* Center items vertically */
+}
+
+.nav-links li {
+    margin: 0 15px; /* Add horizontal margin between links */
+}
+
+.nav-links a {
+    color: #ffffff; /* White text color */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Make text bold */
+    padding: 5px 10px; /* Add some padding around links */
+    transition: background-color 0.3s; /* Smooth background color change */
+    display: flex; /* Use flexbox for icon and text alignment */
+    align-items: center; /* Center items vertically */
+}
+
+.nav-links a:hover {
+    background-color: #007bff; /* Change background on hover */
+    border-radius: 4px; /* Rounded corners */
+}
+
+.nav-links a svg {
+    margin-right: 5px; /* Add space between icon and text */
+}

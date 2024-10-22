@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nasiphi",
+      "email": "nasiphigmail@gmail.com",
+      "password": "nasiphi123"
+    },
+    {
+      "id": 2,
+      "name": "Zama",
+      "email": "zama@gmail.com",
+      "password": "zama123"
+    },
+    {
+      "id": "7d8c",
+      "name": "NS NDZUMO",
+      "email": "Wee@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "6e48",
+      "name": "sip",
+      "email": "sip@mail.com",
+      "password": "sip1234"
+    },
+    {
+      "id": "8175",
+      "name": "sip",
+      "email": "sip@mail.com",
+      "password": "sip1234"
+    },
+    {
+      "id": "04b0",
+      "name": "sip",
+      "email": "sip@mail.com",
+      "password": "sip1234"
+    },
+    {
+      "id": "d2d7",
+      "name": "sip",
+      "email": "sip@mail.com",
+      "password": "sip1234"
+    },
+    {
+      "id": "3e9a",
+      "name": "sip",
+      "email": "sip@mail.com",
+      "password": "sip1234"
+    },
+    {
+      "id": "09df",
+      "name": "sip",
+      "email": "sip@mail.com",
+      "password": "sip1234"
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "name": "Groceries",
+      "items": [
+        {
+          "id": 1,
+          "name": "Milk",
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "name": "Bread",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Eggs",
+          "quantity": 12
+        },
+        {
+          "id": 4,
+          "name": "Apples",
+          "quantity": 6
+        }
+      ]
+    }
+  ]
+}
