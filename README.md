@@ -18,13 +18,15 @@ The Shopping List App is a web application that helps users organize and manage 
 - **Styling**: CSS (or styled-components if used)
 - **Icons**: React Icons
 
-## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Siphe23/shop-list-grocery.git
 
-## Instructions
-   
+## Links
+   shop-list-grocery-6ufuzio40-nasiphis-projects-f287cdf3.vercel.app
+    
+## Installation Instructions
+
 Navigate to the project directory:
 bash
 Copy code
